@@ -2,11 +2,6 @@
  Hi there, I'm Avi Kerson! 👋
 </h1>
 
-<p align='center'>
-<!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
- from Seattle, WA.
-</p>
-
  <p align='center'>
   <a href="https://www.linkedin.com/in/avi-kerson/">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
