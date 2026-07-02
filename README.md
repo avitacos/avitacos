@@ -3,7 +3,6 @@
 </h1>
 
 <p align='center'>
-I'm a Full Stack Developer 
 <!-- <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> -->
  from Seattle, WA.
 </p>
